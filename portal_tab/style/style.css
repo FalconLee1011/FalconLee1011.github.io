@@ -1,0 +1,20 @@
+body{
+  background-color: #191919;
+}
+.date_time_label{
+  padding-top: 22%;
+  margin: 0 auto;
+  width: 50%;
+}
+.datetime{
+  margin: 0 auto;
+  width: 100%;
+  color: #707070;
+  font-size: 140px;
+  text-align: center;
+}
+
+.t_sec{
+  font-size: 60px !important;
+  padding-bottom: 60px !important;
+}
